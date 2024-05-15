@@ -1,18 +1,18 @@
 Summary
 For this assignment, you will design the DB for an Online Marketplace for a company you choose the name of. You will work on this project as a pair.
 
- 
+
 
 The DB should be able to track products, current inventory, transactions, reviews for products, and users who have signed up for an account on our website.
 
 Go through the Analysis (collect and analyze requirements) and Logical modeling (implement ERD of entities, relationships, and attributes), and normalization phases of your DB design (part of Logical modeling).
 
- 
+
 
 Create the following:
 
-The ER diagrams using the notation discussed in class / the book, that can be done in a tool of your choice. I recommend LucidChart. Models created in MySQL ER diagram creator will not be accepted. There are many reasons for this, primarily because you are more limited in customization. You may pick a different modeling tool with permission (email me). These will be non-normalized. 
- 
+The ER diagrams using the notation discussed in class / the book, that can be done in a tool of your choice. I recommend LucidChart. Models created in MySQL ER diagram creator will not be accepted. There are many reasons for this, primarily because you are more limited in customization. You may pick a different modeling tool with permission (email me). These will be non-normalized.
+
 
 In the future, you will need to answer questions from this DB like:
 
@@ -24,7 +24,7 @@ Get a list of the most popular products for a given time range
 Get a list of the least popular products for a given time range
 Get a list of users who haven't purchased something in a few months to send promotional emails to
 This should also include products that these users normally purchase
- 
+
 
 Required/Suggested items:
 
@@ -36,26 +36,26 @@ Include documentation explaining which entities are Strong and which entities ar
 Alternative option to documentation is to create a separate ER diagram with the diamond notation and supertype/subtype entities format.
 If you have questions about the requirements of the DB please reach out to me.
 
- 
+
 
 Format Requirements
 Please use LucidChart or another tool, other than MySQL ERD modeling. You may pick a different modeling tool with permission (email me). Submit these files as well as screenshots.
- 
+
 
 Assessment
 Your diagrams will be graded on their accuracy, logical sense and normalization.
 
- 
+
 
 Deliverables
-Please submit the Github repo with the diagrams in them as well as screenshots of the diagrams. If the file is done in Powerpoint, you do not need to submit screenshots. 
-Do not forget to make me and the TA a collaborator in your repo via our Github usernames: 
+Please submit the Github repo with the diagrams in them as well as screenshots of the diagrams. If the file is done in Powerpoint, you do not need to submit screenshots.
+Do not forget to make me and the TA a collaborator in your repo via our Github usernames:
 
 EricLloydNSC-CS
 
-gabistein 
+gabistein
 
- 
+
 
 Appendix
 ER Diagram Example:
